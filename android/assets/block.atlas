@@ -1,0 +1,97 @@
+
+block.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+block_h_big
+  rotate: false
+  xy: 300, 294
+  size: 276, 90
+  orig: 276, 90
+  offset: 0, 0
+  index: -1
+block_h_small
+  rotate: false
+  xy: 2, 2
+  size: 183, 90
+  orig: 183, 90
+  offset: 0, 0
+  index: -1
+block_main
+  rotate: false
+  xy: 1373, 850
+  size: 183, 90
+  orig: 183, 90
+  offset: 0, 0
+  index: -1
+block_v_big
+  rotate: false
+  xy: 1282, 664
+  size: 89, 276
+  orig: 89, 276
+  offset: 0, 0
+  index: -1
+block_v_small
+  rotate: false
+  xy: 1373, 666
+  size: 90, 182
+  orig: 90, 182
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 386
+  size: 610, 554
+  orig: 610, 554
+  offset: 0, 0
+  index: -1
+frame_h_big
+  rotate: false
+  xy: 2, 288
+  size: 296, 96
+  orig: 296, 96
+  offset: 0, 0
+  index: -1
+frame_h_small
+  rotate: false
+  xy: 2, 94
+  size: 201, 96
+  orig: 201, 96
+  offset: 0, 0
+  index: -1
+frame_v_big
+  rotate: false
+  xy: 1184, 644
+  size: 96, 296
+  orig: 96, 296
+  offset: 0, 0
+  index: -1
+frame_v_small
+  rotate: false
+  xy: 1184, 441
+  size: 96, 201
+  orig: 96, 201
+  offset: 0, 0
+  index: -1
+gameScreen 2
+  rotate: false
+  xy: 614, 370
+  size: 568, 570
+  orig: 568, 570
+  offset: 0, 0
+  index: -1
+out
+  rotate: false
+  xy: 1282, 591
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+seamless-wood-texture-background copy 8
+  rotate: false
+  xy: 2, 192
+  size: 282, 94
+  orig: 282, 94
+  offset: 0, 0
+  index: -1
